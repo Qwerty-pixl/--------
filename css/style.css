@@ -110,9 +110,9 @@ textarea {
 
 .logo {
     padding-top: 10px;
-    animation: zoomInOut 5s infinite;
     position: absolute;
     text-align: center;
+	margin-left: 210px;
 }
 
 @keyframes zoomInOut {
@@ -239,6 +239,4 @@ a {
 }
 .menu{
 	background: grey;
-}.logo{
-	margin-left: 210px;
 }
