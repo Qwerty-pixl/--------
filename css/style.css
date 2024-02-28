@@ -469,18 +469,24 @@ a {
 	line-height: 30px;
 	letter-spacing: 0em;
 	text-align: left;
+	margin-bottom: 0px;
 
 }
 
 .details_cards {
+	gap: 25px;
 	width: 1312px;
 	height: 587.72px;
 	top: 69.72px;
 	left: 64px;
-	display: flex;
-
+	margin-bottom: 50px;
+	
 }
 
-.details_card :first-child{
+
+.details_card :first-child {
 	background: url(../img/details1.jpg);
+	width: 421.33px;
+	height: 547.72px;
+
 }
