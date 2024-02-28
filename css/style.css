@@ -471,18 +471,16 @@ a {
 	text-align: left;
 
 }
-.details_cards{
+
+.details_cards {
 	width: 1312px;
 	height: 587.72px;
 	top: 69.72px;
 	left: 64px;
 	display: flex;
-	
+
 }
-.details_img :first-child{
-background: url(../img/details1.jpg);
-width: 421.33px;
-height: 547.72px;
-margin-top: 20px;
-margin-left: 30px;
+
+.details_card :first-child{
+	background: url(../img/details1.jpg);
 }
