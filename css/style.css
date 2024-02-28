@@ -527,3 +527,15 @@ margin-left: 1300px;
 margin-bottom: 20px;
 
 }
+.book_cards{
+	display: flex;
+}
+.book_txt{
+	font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 32px;
+}
