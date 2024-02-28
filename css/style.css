@@ -548,3 +548,12 @@ a {
 	margin-top: 32px;
 	margin-left: 45px;
 }
+.design_tit{
+	font-family: Roboto;
+font-size: 43px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+
+}
