@@ -403,4 +403,14 @@ letter-spacing: 0em;
 text-align: left;
 
 }
-jewer
+.jewerly_price_info_second{
+	margin-left: 400px;
+margin-top: -20px;
+	font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
