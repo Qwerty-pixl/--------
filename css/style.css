@@ -445,12 +445,12 @@ a {
 	margin-right: 0px;
 	text-align: center;
 	font-family: Roboto;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-letter-spacing: 0em;
-text-align: left;
-margin-left: 40px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-left: 40px;
 }
 
 .img_model {
@@ -458,4 +458,16 @@ margin-left: 40px;
 	top: 50px;
 	left: 50px;
 	margin-top: 0px;
+}
+
+.details {
+	margin-top: 48px;
+	margin-left: 30px;
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 0em;
+	text-align: left;
+
 }
