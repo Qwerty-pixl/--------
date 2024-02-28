@@ -614,3 +614,6 @@ a {
 .design_img-obertka{
 	padding: 19px 87px 66px;
 }
+.ring_card :first-child{
+	background: url(../img/ring1.jpg);
+}
