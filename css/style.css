@@ -310,6 +310,7 @@ a {
 
 }
 
+
 .info_txt {
 	font-family: Roboto;
 	font-size: 20px;
@@ -382,34 +383,55 @@ a {
 	line-height: 22px;
 	letter-spacing: 0em;
 }
-.jewerly_price{
+
+.jewerly_price {
 	font-family: Roboto;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-letter-spacing: 0em;
-text-align: left;
-margin-left: 83px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-left: 83px;
 
 
 }
-.jewerly_price_info{
+
+.jewerly_price_info {
 	margin-top: 530px;
 	font-family: Roboto;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-letter-spacing: 0em;
-text-align: left;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0em;
+	text-align: left;
 
 }
-.jewerly_price_info_second{
+
+.jewerly_price_info_second {
 	margin-left: 400px;
-margin-top: -20px;
+	margin-top: -20px;
 	font-family: Roboto;
-font-size: 14px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0em;
+	text-align: left;
+
+}
+.models_cards{
+	display: flex;
+}
+.models{
+	margin-top: 170px;
+
+}
+.img_tit{
+	margin-left: 52px;
+	margin-top: 50px;
+	font-family: Roboto;
+font-size: 44px;
 font-weight: 400;
-line-height: 18px;
+line-height: 60px;
 letter-spacing: 0em;
 text-align: left;
 
