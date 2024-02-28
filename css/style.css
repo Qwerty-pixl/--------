@@ -460,7 +460,7 @@ a {
 	margin-top: 0px;
 }
 
-.details {
+.details_tit {
 	margin-top: 48px;
 	margin-left: 30px;
 	font-family: Roboto;
@@ -470,4 +470,19 @@ a {
 	letter-spacing: 0em;
 	text-align: left;
 
+}
+.details_cards{
+	width: 1312px;
+	height: 587.72px;
+	top: 69.72px;
+	left: 64px;
+	display: flex;
+	
+}
+.details_img :first-child{
+background: url(../img/details1.jpg);
+width: 421.33px;
+height: 547.72px;
+margin-top: 20px;
+margin-left: 30px;
 }
