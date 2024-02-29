@@ -622,6 +622,7 @@ a {
 	height: 936px;
 	top: 5682px;
 	display: flex;
+	margin-left: 38px;
 
 }
 
@@ -672,7 +673,7 @@ a {
 }
 
 .hand_price {
-	color: #000;
+	color:white;
 	display: block;
 	display: flex;
 	font-family: Roboto;
@@ -683,7 +684,8 @@ a {
 	text-align: left;
 	margin-right: 40px;
 	justify-content: space-between;
-	
+margin-top: 55px;
+
 }
 .hand_prices{
 	display: flex;
