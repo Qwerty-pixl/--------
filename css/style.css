@@ -598,8 +598,9 @@ a {
 	line-height: 23px;
 	letter-spacing: 0em;
 	text-align: left;
-	margin-left: 65px;
+	margin-left: -55px;
 	margin-top: 50px;
+	padding: 65px;
 
 }
 
@@ -611,9 +612,33 @@ a {
 	width: 233px;
 	height: 233px;
 }
-.design_img-obertka{
+
+.design_img-obertka {
 	padding: 19px 87px 66px;
 }
-.ring_card :first-child{
+
+.ring_cards {
+	width: 1440px;
+	height: 936px;
+	top: 5682px;
+
+}
+
+.ring_card :first-child {
 	background: url(../img/ring1.jpg);
+	width: 720px;
+	height: 936px;
+	top: 0.02px;
+	margin-left: -55px;
+
+}
+
+.ring_info {
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	text-align: left;
+	padding: 50px;
+
+
 }
