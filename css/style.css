@@ -643,30 +643,58 @@ a {
 
 
 }
-.ring_tit{
+
+.ring_tit {
 	font-family: Roboto;
-font-size: 48px;
-font-weight: 400;
-line-height: 60px;
-letter-spacing: 0em;
-text-align: left;
-margin-left: 40px;
+	font-size: 48px;
+	font-weight: 400;
+	line-height: 60px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-left: 40px;
 }
-.ring_card1{
-background: url(../img/ring2.jpg);
+
+.ring_card1 {
+	background: url(../img/ring2.jpg);
 }
-.ring1_txt{
+
+.ring1_txt {
 	font-family: Roboto;
-font-size: 14px;
-text-align: left;
-margin-top: 660px;
-margin-left: 50px;
+	font-size: 14px;
+	text-align: left;
+	margin-top: 660px;
+	margin-left: 50px;
 
 }
-.hand{
-	margin-top: 85px;
+
+.hand {
+	margin-top: 65px;
 }
-.hand_price{
+
+.hand_price {
+	color: #000;
 	display: block;
 	display: flex;
+	font-family: Roboto;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-right: 40px;
+	
+}
+
+.hand_img {
+	
+}
+.hand_content{
+	gap: 200px;
+	background: url(../img/hand1.jpg) no-repeat;
+	height: 788px;
+	width: 1728px;
+	height: 788px;
+	top: -119.98px;
+	left: -144px;
+	
 }
