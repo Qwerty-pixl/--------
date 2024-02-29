@@ -682,9 +682,15 @@ a {
 	letter-spacing: 0em;
 	text-align: left;
 	margin-right: 40px;
+	justify-content: space-between;
 	
 }
-
+.hand_prices{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 60px;
+	margin-top: 50px;
+}
 .hand_img {
 	
 }
