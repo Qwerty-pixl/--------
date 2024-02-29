@@ -621,6 +621,7 @@ a {
 	width: 1440px;
 	height: 936px;
 	top: 5682px;
+	display: flex;
 
 }
 
@@ -641,4 +642,31 @@ a {
 	padding: 50px;
 
 
+}
+.ring_tit{
+	font-family: Roboto;
+font-size: 48px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 40px;
+}
+.ring_card1{
+background: url(../img/ring2.jpg);
+}
+.ring1_txt{
+	font-family: Roboto;
+font-size: 14px;
+text-align: left;
+margin-top: 660px;
+margin-left: 50px;
+
+}
+.hand{
+	margin-top: 85px;
+}
+.hand_price{
+	display: block;
+	display: flex;
 }
